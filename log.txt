@@ -1,0 +1,4 @@
+INFO: Sistema iniciado
+ERROR: Erro crítico!
+ERROR: Erro crítico!
+INFO: Sistema iniciado
